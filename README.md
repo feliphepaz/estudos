@@ -1,11 +1,12 @@
 # Estudos / Anotações sobre JavaScript 
 <img width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-Em minha jornada como desenvolvedor, passei por algumas dificuldades no meu aprendizado referente a alguns conceitos de programação. Para me ajudar, eu comecei a escrever com as minhas próprias palavras o que eu tinha até então entendido de tais assuntos. Esse tipo de técnica me ajudou bastante a fixar alguns métodos do JavaScript, sendo que agora eu já utilizo a maior parte deles no meu dia a dia.
+Em minha jornada como desenvolvedor, passei por algumas dificuldades no meu aprendizado referente a alguns conceitos de programação. Para me ajudar, eu comecei a escrever com as minhas próprias palavras o que eu tinha até então entendido de tais assuntos. Esse tipo de técnica me ajudou bastante a fixar alguns métodos da linguagem, sendo que agora eu já utilizo a maior parte deles no meu dia a dia.
 <br>
 <br>
 Deixo aqui então como uma simples forma de compartilhar conhecimento 🤓
 <br>
 <br>
+**Importante**: Os textos daqui foram escritos por um Feliphe ainda iniciante, do qual ainda estava em seu processo de aprendizagem. As chances de eu ter cometido uma gafe em algumas das minhas explicações são bem altas! Então é por sua conta em risco.
 
 ## Promises
 
